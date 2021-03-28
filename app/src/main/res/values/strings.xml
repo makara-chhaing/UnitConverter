@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="input"/>
+    <string name="first_result"/>
+    <string name="third_result"/>
+    <string name="second_result"/>
+    <string name="first_unit"/>
+    <string name="third_unit"/>
+    <string name="second_unit"/>
+
+    <string-array name="spinner_units">
+        <item/>
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+</resources>
